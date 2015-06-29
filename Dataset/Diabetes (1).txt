@@ -1,0 +1,24 @@
+http://post.jagran.com/gut-cells-may-give-birth-to-insulinmaking-cells-1394619840
+Gut cells may give birth to insulin-making cells
+
+Destruction of insulin-producing beta cells in the pancreas is at the heart of type 1 and type 2 diabetes.
+
+"We are looking for ways to make new beta cells for these patients to one day replace daily insulin injections," said Ben Stanger, an assistant professor at University of Pennsylvania.
+
+Transplanting islet cells to restore normal blood sugar levels in patients with severe type 1 diabetes is one approach to treating the disease. Using stem cells to create beta cells is another area of investigation.
+
+However, both of these strategies have limitations."Our results demonstrate that the intestine could be an accessible and abundant source of functional insulin-producing cells," Stanger noted.
+
+In the new research, Stanger and his team introduced the three beta-cell reprogramming factors Pdx1 (P), MafA (M) and Ngn3 (N) - collectively called PMN - into the acinar cells of the pancreas. Remarkably, this manipulation caused the cells to take on some structural and physiological features of beta cells.
+
+They expressed PMN in a wide spectrum of tissues in one-to-two-month-old mice. Three days later the mice died of hypoglycemia.
+
+The team knew they were on to something given that some of the mouse cells - cells other than acinar cells - were making way too much extra insulin.
+
+"In tracking down which cell type it was, we saw transient expression of the three factors in crypt cells of the intestine near the pancreas," Stanger explained.
+
+They dubbed these beta-like, transformed cells 'neoislet' cells. These cells express insulin and show outward structural features akin to beta cells.
+
+The neoislets are also responsive to glucose - when exposed to glucose they release insulin. The cells were also able to improve hyperglycemia in diabetic mice. What is more, expressing PMN in human intestinal 'organoids' - miniature intestinal units that can be grown in culture - also converted intestinal epithelial cells into beta-like cells.
+
+"Our ultimate goal is to obtain epithelial cells from diabetes patients who have had endoscopies, expand these cells, add PMN to them to make beta-like cells, and then give them back to the patient as an alternate therapy," Stanger expressed.The report was published in the journal Cell Reports.

@@ -1,0 +1,10 @@
+http://www.telecomtiger.com/Corporate_fullstory.aspx?passfrom=breakingnews&storyid=20015&section=S162
+Microsoft to end support to Windows XP from April 8 in India, ATMs running on XP OS yet to upgrade
+
+Several financial services firms are now considering migrating their fleets of ATMs from Windows XP to the open operating system Linux. They think that doing so would give them better grasp over their own software and hardware cycles.
+Even today, 95% of all ATMs around the world runs on Windows XP OS. Windows XP is three generations behind the latest operating system Windows 8 that was launched in October 2012.
+"The numbers of ATMs left on Windows XP are higher than PCs as a percentage. Many more ATMs, probably higher than the 35 per cent computers in banks and financial institutions that are still to be upgraded and these (ATMs) are not included in those 4 million computers," Microsoft India GM (Windows business) Amrish Goyal told PTI.
+Some ATM operators have already moved to Windows 7 and some are in the process of migration. But a significant number of those financial services firms are also considering taking Linux as an alternative or replacement.
+Indian Banks Association (IBA) chief executive MV Tanksale, however, said only old ATMs may face some problem as all the newer machines run on newer platforms.
+Tanksale said he does not have the data of such machines which are still running on Windows XP.
+Apart from being a threat, this is an opportunity for the ATM equipment industry, given the need to replace so many legacy ATMs. A new ATM costs upwards of $3,000, or approximately Rs 1.8 lakh. Banks and ATM vendors may also explore rental models rather than outright sales.

@@ -1,0 +1,21 @@
+A type of melanoma that runs in families may be caused by a fault in a gene that helps protect us from ageing.
+The finding, published today in Nature Genetics, has been made possible through DNA sequencing of families with a history of early-onset of this type of skin cancer.
+Co-author Professor Nick Hayward, of the QMIR Berghofer Medical Research Institute, says the finding will help identify people at high risk of this type of melanoma and also open potential new targets for drug development.
+About 11,000 people are diagnosed with melanoma every year in Australia with one in 50 of these cases having a strong family history of the disease.
+The international study looked at 184 melanoma cases from 105 families across the UK, Australia and The Netherlands.
+Critically those families involved in the study did not have genetic mutations that are already known to be responsible for about 40 per cent of all familial cases of melanoma. This latest find accounts for about 3 per cent of cases.
+Mutations
+Analysis of DNA sequencing pinpointed mutations of the gene, POT1, as increasing family member's risk for melanoma.
+POT1 is found in a protein complex known as shelterin, which plays a critical role in stopping the degradation of telomeres.
+Telomeres play a similar role in DNA strands to the plastic tips on the ends of shoelaces that stop them from fraying.
+As its name suggests, shelterin protects and maintains the telomere from damage, but also regulates the enzyme telomerase, which maintains chromosome length by replacing the short bits of telomere lost during cell division.
+When the telomeres become too short, the chromosome can no longer replicate, meaning the cell dies. Previous studies have linked a number of premature ageing with shortened telomeres.
+But Hayward says there is a very "tight balance" in how well telomerase should function.
+"We don't want telomerase working too well because then it causes its own problems … in terms of rearrangement of chromosomes," he says.
+"There is a very tight balance between how well telomerase should elongate the DNA on the end of each chromosome … a Goldilock's amount, not too little, not too much, there is this sweet spot where it is just right," he says.
+However Hayward says mutations in POT1 stop this process working properly, leading to longer telomeres as the telomerase keeps adding new DNA.
+Hayward says previous studies have shown a link between long telomeres and melanoma.
+"Melanoma is odd in relation to all other cancer types. In other cancer types short telomeres are actually related to predisposition, so it is telling us somehow the mechanism is different," he says.
+Hayward says the finding that faults in POT1 lead to predisposition will help identify people at high risk of developing melanoma and open a new target for drug therapies.
+"People have known for decades that telomerase is an enzyme that is overactive in almost all cancers … but they have not been successful in developing any drugs so just maybe telomerase itself is not the best target for the drug," he says.
+"We've now identified mutations in a different gene that is related to the function of telomerase," he says, "[so] conceptually we could think of a way to a drug that alters the interaction between POT1 and telomerase might be useful for treating cancer."

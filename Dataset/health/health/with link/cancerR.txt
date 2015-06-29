@@ -1,0 +1,15 @@
+http://timesofindia.indiatimes.com/life-style/health-fitness/health/A-simple-blood-test-to-detect-solid-cancers/articleshow/33394615.cms
+A simple blood test to detect 'solid' cancers?
+
+What about a simple blood test to diagnose many types of solid cancers? Or a blood test that monitors the amount of cancer in a patient's body and responses to treatment? 
+Researchers at Stanford University have designed a new technique that may soon make this a reality. 
+Tumours are called 'solid' or 'liquid' based on where in the body they grow. 
+More than 80 percent of all cancers are caused by solid tumours that grow as a mass of cells in particular organ, tissue or gland. 
+The new technique called CAPP-Seq (cancer personalised profiling by deep sequencing) is sensitive enough to detect just one molecule of tumour DNA in a sea of 10,000 healthy DNA molecules in the blood. 
+"We set out to develop a method that overcomes two major hurdles in the circulating tumour DNA field. We are trying to develop a general method to detect and measure disease burden," said Maximilian Diehn, an assistant professor of radiation oncology at Stanford University's school of medicine. 
+With this upgraded technique, the researchers were able to accurately identify about 50 percent of people in the study with stage-1 lung cancer and all patients whose cancers were more advanced. 
+By developing a general technique for monitoring circulating tumour DNA, the research team is trying to transform solid tumours into liquid tumours that can be detected and tracked more easily. 
+CAPP-Seq may also be useful as a prognostic tool, the researchers found. 
+The technique detected small levels of circulating tumour DNA in one patient thought to have been successfully treated for the disease; that patient experienced disease recurrence and ultimately died. 
+The researchers are now working to design clinical trials to see whether CAPP-Seq can improve patient outcomes and decrease costs. 
+They are also aiming to extend the technique to other types of tumours like breast, prostate, colorectal and lung cancer. 

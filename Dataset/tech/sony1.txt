@@ -1,0 +1,14 @@
+http://tech.firstpost.com/news-analysis/sony-unveils-project-morpheus-a-virtual-reality-headset-for-the-playstation-4-220067.html
+Sony unveils Project Morpheus, a virtual reality headset for the PlayStation 4
+
+Sony is getting into the virtual reality business.
+The Japanese electronics and gaming giant unveiled a prototype virtual reality headset to be used in conjunction with its PlayStation 4 video game console during a Tuesday talk at the Game Developers Conference.
+Shuhei Yoshida, president of Sony Computer Entertainment Worldwide Studios, showed off the slick black-and-white headset at the annual gathering of game designers. He said Sony has been working on the technology for more than three years.
+The adjustable device is codenamed Project Morpheus and features a head-mounted display with 1080p resolution and a 90-degree field of view. Sensors built into the headset can track a wearer’s head movement in concert with a PS4 camera.
+“This prototype is by no means final,” said Yoshida. “We will continue to work on this to improve it, but we believe it’s a good representation of how PlayStation will deliver VR.”
+Anton Mikhailov, a senior software engineer working on Project Morpheus, said the current version of the technology must be attached to a PS4 console with a cord that’s about 15 feet (4.5 meters) long, and users’ virtual perspectives can be simultaneously broadcast on a television screen.
+“The experience can be shared, and that’s only going to allow it to spread,” said Mikhailov. “I think that’s going to be the key. Once people see someone else interacting in VR, they’re going to want to put it on and try it next.”
+Mikhailov said users will be able to interact with the virtual world displayed on the headset with the gesture-detecting PlayStation Move controller, as well as the standard DualShock 4. He declined to specify when the headset would be released or how much it would cost.
+Project Morpheus will be available for demonstration beginning Wednesday for conference attendees on the conference’s expo floor with four games: diving cage simulator “The Deep,” medieval combat game “The Castle,” sci-fi dogfighter “EVE: Valkyrie” and a VR rendition of the stealthy action-adventure title “Thief.”
+While Sony Corp. has released other head-mounted display units, Project Morpheus marks the company’s first foray into VR with PlayStation. Sony’s headset is similar to the Oculus Rift, a VR device currently in development by the Irvine, California-based startup Oculus VR.
+Both devices use head tracking to reduce queasiness when users peek around a virtual landscape, and they look more like ski googles than the bulky gaming helmets of the 1990s that usually left users with headaches.

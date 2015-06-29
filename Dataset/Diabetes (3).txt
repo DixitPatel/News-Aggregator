@@ -1,0 +1,22 @@
+http://www.biosciencetechnology.com/news/2014/03/cellular-alchemy-study-shows-how-make-insulin-producing-cells-gut-cells
+Cellular Alchemy: Study Shows How to Make Insulin-Producing Cells from Gut Cells
+
+Destruction of insulin-producing beta cells in the pancreas is at the heart of type 1 and type 2 diabetes. “We are looking for ways to make new beta cells for these patients to one day replace daily insulin injections,” says Ben Stanger, MD, PhD, assistant professor of Medicine in the Division of Gastroenterology, Perelman School of Medicine at the University of Pennsylvania. Transplanting islet cells to restore normal blood sugar levels in patients with severe type 1 diabetes is one approach to treating the disease, and using stem cells to create beta cells is another area of investigation. However, both of these strategies have limitations: transplantable islet cells are in short supply, and stem cell-based approaches have a long way to go before they reach the clinic.
+
+“It’s a powerful idea that if you have the right combination of transcription factors you can make any cell into any other cell. It’s cellular alchemy,” comments Stanger.
+
+New research from Stanger and postdoctoral fellow Yi-Ju Chen, PhD, reported in Cell Reports this month, describes how introducing three proteins that control the regulation of DNA in the nucleus—called transcription factors—into an immune-deficient mouse turned a specific group of cells in the gut lining into beta-like cells, raising the prospect of using differentiated pancreatic cells as a source for new beta cells.
+
+In 2008, the lab of Stanger's postdoctoral mentor introduced the three beta-cell reprogramming factors—Pdx1 (P), MafA (M), and Ngn3 (N)—collectively called PMN—into the acinar cells of the pancreas. Remarkably, this manipulation caused the cells to take on some structural and physiological features of beta cells.
+
+Following this report, the Stanger team set out to determine which, if any, other cell types could be reprogrammed into beta cells. “We expressed PMN in a wide spectrum of tissues in one-to-two-month-old mice,” says Stanger. “Three days later the mice died of hypoglycemia.” The team knew they were on to something given that some of the mouse cells—cells other than acinar cells—were making way too much extra insulin, in fact a lethal amount.
+
+In tracking down which cell type it was, “we saw transient expression of the three factors in crypt cells of the intestine near the pancreas,” explain Stanger.
+
+They dubbed these beta-like, transformed cells “neoislet” cells. These cells express insulin and show outward structural features akin to beta cells. The neoislets are also responsive to glucose—when exposed to glucose they release insulin. The cells were also able to improve hyperglycemia in diabetic mice.
+
+The team also figured out how to turn the factors on in only the intestinal crypt cells so the deadly whole-body hypoglycemia side effect that first killed the mice was repaired.
+
+What’s more, expressing PMN in human intestinal ‘‘organoids’’—miniature intestinal units that can be grown in culture—also converted intestinal epithelial cells into beta-like cells.
+
+“Our results demonstrate that the intestine could be an accessible and abundant source of functional insulin-producing cells,” says Stanger. “Our ultimate goal is to obtain epithelial cells from diabetes patients who have had endoscopies, expand these cells, add PMN to them to make beta-like cells, and then give them back to the patient as an alternate therapy. There is a long way to go for this to be possible, including improving the functional properties of the cells, so that they more closely resemble beta cells, and figuring out alternate ways of converting intestinal cells to beta-like cells without gene therapy.

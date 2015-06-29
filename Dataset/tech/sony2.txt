@@ -1,0 +1,10 @@
+http://readwrite.com/2014/03/18/project-morpheus-sony-virtual-reality-vr-headset-playstation-ps4
+Meet ‘Project Morpheus,’ Sony’s Virtual Reality Headset For PS4
+
+Oculus Rift isn't out yet, but Sony has its own ideas for enhancing the gaming experience with virtual reality.
+At this week's Game Developers Conference in San Francisco, Sony's gaming subsidiary on Tuesday evening unveiled a virtual reality prototype that works with the company’s new PlayStation 4 console, called “Project Morpheus.” 
+The VR device is still a prototype at this point, but the current model of Project Morpheus features a head-mounted display with 1080p resolution and a 90º field of view that can track users’ head movements and orientation shifts—thanks to a built-in accelerometer, gyroscope and connectivity with PlayStation Camera—to change the virtual landscape based off your motions in real-time.
+The headset also comes with built-in 3D audio technology from Sony, which also reacts dynamically in real-time to the user’s head movements for a realistic stereoscopic effect. 
+“The prototype for Project Morpheus is the culmination of our work over the last 3+ years as we’ve refined our vision for VR,” Shu Yoshida, president of SCE Worldwide Studios, said on the company’s PlayStation blog. “This prototype will serve as the first development kit for PS4 developers that are as enthusiastic about this new medium as we are.”
+Sony says Project Morpheus works alongside the company’s other PS4 accessories, including the DualShock 4 controller and PlayStation Move device, but Yoshida offers no information about a release date or price point for the product, insisting “this is a prototype, and we are not talking about our final product yet.”
+Sony will be showing off Project Morpheus from now until the end of GDC 2014 on March 21.

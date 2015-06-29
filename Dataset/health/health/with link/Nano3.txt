@@ -1,0 +1,12 @@
+http://www.financialexpress.com/news/wearable-smart-patch-can-detect-disease-and-deliver-drugs/1237059?rhnews
+Wearable smart patch can detect disease and deliver drugs
+
+Researchers have developed a smart patch that can be worn on the wrist to detect symptoms of Parkinson's disease or epilepsy and even deliver drugs.
+Dae-Hyeong Kim at the Seoul National University in South Korea and his team developed the adhesive patch that is flexible and can be worn on the wrist like a second skin.
+The patch is 1 millimetre thick and made of a hydrocolloid dressing - a type of thin flexible bandage - into which a layer of silicon nanoparticles is embedded.
+These silicon nanomembranes are often used for flexible electronics, and can pick up the bend and stretch of human skin and convert these into small electronic signals.
+The signals are stored as data in separate memory cells made from layers of gold nanoparticles, 'New Scientist' reported.
+The device could be used to detect and treat tremors in people who have Parkinson's disease, or epileptic seizures, said Kim.
+If these movements are detected, small heaters in the patch trigger the release of drugs from silicon nanoparticles. The patch also contains temperature sensors to make sure the skin does not burn during the process.
+Currently, the patch relies on an external power source, but it could be powered by other devices worn on the wrist, such as a watch, said Kim.
+Kim expects the device to be available in about five years for use in healthcare.

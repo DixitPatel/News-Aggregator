@@ -1,0 +1,10 @@
+http://www.aninews.in/newsdetail9/story161837/now-smart-skin-patch-that-knows-when-to-deliver-drug-to-patient.html
+Now, smart skin patch that knows when to deliver drug to patient
+
+Washington, Mar 31 (ANI): A group of South Korean researchers have come up with dermal patch that not only dispenses drugs continuously, but also has the ability to determine when it's time to stop.
+The patch consists of a 2-inch-long rectangle made of stretchable nanomaterials. The materials contain heat-activated silica nanoparticles that monitor muscle activity and release therapeutic agents based on a patient's body temperature, the Verge reported.
+This sort of system is ideal for people who suffer from Parkinson's disease, for instance, because the tremors that accompany the movement disorder aren't constant. When a patient starts to tremble, the patch can pick up on the motion and release a small amount of the drug it contains.
+Dae-Hyeong Kim, a biomedical engineer at Seoul National University and co-author of the study, said that because the silica nanoparticles are heat-activated, his team also embedded "stretchable heaters" into the patch that allow them to control the rate of drug delivery if needed.
+But the patch isn't perfect, because it can't be activated wirelessly just yet.
+"In the future, wireless components should be integrated," Kim said, "and then this system will be connected to wireless networks," which will allow doctors to diagnose conditions and dispense drugs remotely.
+The patch won't be ready to hit the market for at least another five years, Kim estimated. But the idea that medical technologies such as this one might actually come to fruition is still pretty exciting.

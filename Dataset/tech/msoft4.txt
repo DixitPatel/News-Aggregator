@@ -1,0 +1,27 @@
+http://www.saharasamay.com/technology-news/676550250/microsoft-ends-support-windows-xp-from-april-8-atms-in-india-yet.html
+Microsoft ends support for Windows XP from April 8, ATMs in India yet to be uprgraded
+
+Microsoft will stop providing support for its popular operating system, Windows XP beginning April 8.
+Technical assistance for Windows XP for individual and professional suscribers will no more be availabe after April 8.
+Microsoft decision to stop providing support for Windows XP has put a lot many users to discomfort. According to an estimate 30 pc of desktop market still uses Windows XP operating system.
+Microsoft said in a statement, "Microsoft has provided support for Windows XP for the past 12 years. But now the time has come for us, along with our hardware and software partners, to invest our resources toward supporting more recent technologies so that we can continue to deliver great new experiences."
+ATMs in India yet to be upgraded
+As Microsoft ends support for its Windows XP next month, the software giant said a number of ATMs in India are yet to upgraded and such cash vending machine may face security risk.
+The number of ATMs using Windows XP is higher compared to 16 per cent PCs which need upgradation.
+Last month, the US-based firm had said its PC install base for large enterprises in India is about 4 million units, of which around 84 per cent have migrated from Windows XP.
+Banks and financial institutions are slow in upgrading from Windows XP.
+Three generations behind
+Windows XP, which was launched in October 2001, is three generations behind the latest operating system Windows 8 that was launched in October 2012.
+The current XP version is called Windows XP Service Pack 3 and Microsoft will stop support service to 'Windows XP' OS from April 8. 
+"The number of ATMs left on Windows XP are higher than PCs as a percentage. Many more ATMs, probably higher than the 35 per cent computers in banks and financial institutions that are still to be upgraded and these (ATMs) are not included in those 4 million computers," Microsoft India GM (Windows Business) Amrish Goyal said. 
+There are roughly about 100,000 ATMs in India and many of them are running Windows XP. They have the same support policy and will be out of support, something which the RBI  guidelines has also called out, he added.
+Indian Banks Association (IBA) chief executive M V Tanksale, however, said only old ATMs may face some problem as all the newer machines run on newer platforms.
+Tanksale said he does not have the data of such machines which are still running on Windows XP.
+There are roughly about 100,000 ATMs in India and many of them are running Windows XP.
+RBI issues warning
+Asking banks to take immediate steps, the Reserve Bank of India (RBI) last week warned that banking operations, including ATM services, may be hit as support from Microsoft for Windows XP operating system will end from April 8.
+"The probability of attacks on such a system may increase and it may be difficult to defend such attacks in the absence of Microsoft support," RBI had said in a circular to banks.
+Goyal said banks and financial institutions are facing higher risk compared to other sectors.
+"Banks and financial institutions are slow in upgrading from Windows XP. Private banks a little bit better. They are more equal to the average of the industry, that is around 84 per cent. It is public sector banks and financial institutions that are still lagging," he added.
+Of the total computers in the banks and financial institutions that use Windows XP only 65 per cent have so far upgraded from the OS, Goyal said.
+"Banks are definitely well prepared and the industry is seized of the matter. I am very sure that you will not see a problem where ATMs or bank counters are shut because of this," Tanksale added.
