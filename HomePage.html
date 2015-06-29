@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>NewsPub</title>
+
+       <!-- Include Styles -->
+        <link rel="stylesheet" href="{{ static_url("Homepage.css") }}" />		
+        <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
+        <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
+    </head>
+	
+    <body>
+		<section id="wrapper" class="wrapper">
+		
+		 <h3> <div class="title_name"><a href="main"> NewsPub </a></div></h3></br>
+		 
+			
+	
+		<div class="h_mnu_01"> 
+		<ul> 
+		<li><a href="tech">Technology</a></li>
+		<li><a href="health">Health</a></li>
+		<li><a href="business">Business</a></li>
+		<li><a href="science">Science</a></li>
+		</ul>
+		</div>
+	</br>
+	<div class="a" style="margin-left:550px;"> <h1>{{tit}}</h1></div>
+<!-- {{ j=1 }}	 -->
+{% for item in clust %}
+		
+	
+	<div class="text"> 	
+	
+	<p> <div class="news_img"> <img  width="80" height="80" src="{{ static_url("images/"+dataset.photo_id[item[0]]) }}.png "></div>	
+	<b> <a href = " {{ escape(dataset.link[item[0]]) }} " target="_blank" > {{ escape(dataset.headline[item[0]]) }} </a></b><div class ="below_img">
+	 <img  src="{{ static_url("images/down.png")}} " id="toggle_it{{ j }}" />
+	</div></br>
+	{{ escape(dataset.short_description[item[0]]) }} <b> - {{ escape(dataset.source[item[0]]) }}</b> </br> </p>
+	</br>
+	
+	<div class="more_news{{ j }}" id ="more_news"> 
+	
+	{% for i in range(1,len(item)) %}
+		<p> 
+		<b> <a href =" {{ escape(dataset.link[item[i]])  }}" target="_blank" > {{ escape(dataset.headline[item[i]]) }}  </a></b></br>
+	{{ escape(dataset.short_description[item[i]]) }} <b> - {{ escape(dataset.source[item[i]]) }}</b> </br> </p>
+	
+	{% end %}
+	
+	</div>
+
+	
+<!--	{{ j=j+1 }} -->
+	</div>
+{% end %}	
+	
+
+
+		</section>
+
+        <!-- Include Scripts -->
+        <script type="text/javascript" src="{{ static_url("jquery.min.js") }}"></script> 
+      
+		
+<script type="text/javascript">
+$(document).ready(function() {
+
+  // when click on the tag with id="btn"
+ 
+
+ <!-- {{ j=1 }}	 -->
+{% for item in clust %}
+  $('#toggle_it{{j}}').click(function() {
+      // change the state of the "#idd"
+    $('.more_news{{j}}').toggle('slow');
+	 var src = ($(this).attr('src') === '{{ static_url("images/up.png") }}')
+            ? '{{ static_url("images/down.png") }}'
+            : '{{ static_url("images/up.png") }}';
+         $(this).attr('src', src);
+  });
+  <!-- {{ j=j+1 }}	 -->
+  {% end %}
+  
+    
+});
+</script>
+
+    </body>
+</html>

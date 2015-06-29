@@ -1,0 +1,114 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr 09 12:30:05 2014
+
+@author: dhake
+"""
+import BeautifulSoup
+import urllib
+import urllib2
+import json
+ 
+def main():
+    query = "technology"
+    print bing_search(query, 'News')
+   # print bing_search(query, 'Image')
+ 
+def bing_search(query, search_type):
+    #search_type: Web, Image, News, Video
+    key= 'osplyqfLOwWE29rH2VDyfBZQTMBkuiMpfqOOouE8tzM'
+    query = urllib.quote(query)
+    # create credential for authentication
+    user_agent = 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; FDM; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322)'
+    credentials = (':%s' % key).encode('base64')[:-1]
+    auth = 'Basic %s' % credentials
+    url = 'https://api.datamarket.azure.com/Data.ashx/Bing/Search/'+search_type+'?Query=%27'+query+'%27&$top=25&$format=json'
+    request = urllib2.Request(url)
+    request.add_header('Authorization', auth)
+    request.add_header('User-Agent', user_agent)
+    request_opener = urllib2.build_opener()
+    response = request_opener.open(request) 
+    response_data = response.read()
+    json_result = json.loads(response_data)
+    for i in range(0,12):
+        cname = json_result['d']['results'][i]['Source'] 
+        print cname
+        src_name(cname,json_result)
+        
+    
+           
+def src_name(result_src,json_result):
+    
+    try:
+        if result_src=="DNA India":
+            res = soup.find('div' , {'class': 'content-story'})
+            res = res.find('img').get('src')
+        elif result_src=="Hindustan Times":
+            res = soup.find('div' , {'class': 'body_txt'})
+            print res.text
+        elif result_src=="Money Control":
+            res = soup.find('div' , {'class': 'op_gd14 FL'})
+            print res.text
+        elif result_src=="Yahoo Finance":
+            res = soup.find('div' , {'class': 'body yom-art-content clearfix'})
+            print res.text
+        elif result_src=="Times of India":
+            result_url = json_result['d']['results'][0]['Url']
+            page = urllib2.urlopen(result_url).read()
+            soup = BeautifulSoup.BeautifulSoup(page)
+            soup.prettify()
+            res = soup.find('div' , {'class': 'Normal'})
+            print res.text      
+        elif result_src=="Yahoo! India News":
+            res = soup.find('div' , {'class': 'yom-mod yom-art-content '})
+            print res.text     
+        elif result_src=="NDTV":
+            res = soup.find('div' , {'class': 'pdl200'})
+            print res.text
+        elif result_src=="The Hindu":
+            res = soup.find('div' , {'class': 'article-text'})
+            print res.text
+        elif result_src=="India TV":
+            res = soup.find('div' , {'class': 'standard'})
+            print res
+        elif result_src=="MSN India":
+            result_url = json_result['d']['results'][0]['Url']
+            page = urllib2.urlopen(result_url).read()
+            soup = BeautifulSoup.BeautifulSoup(page)
+            soup.prettify()
+            res = soup.find('div' , {'class': 'svrichtxt cf'})
+            print res.text
+        elif result_src=="The Business Times":
+            res = soup.find('div' , {'class': 'article-text'})
+            print res.text
+        elif result_src=="The Huffington post":
+            res = soup.find('div' , {'class': 'articleBody'})
+            print res.text
+        elif result_src=="Zee News":
+            res = soup.find('div' , {'class': 'articleBody'})
+            print res.text
+        elif result_src=="Thomson Reuters":
+            res = soup.find('div' , {'class': 'articleBody'})
+            print res.text
+        elif result_src=="India Today":
+            res = soup.find('div' , {'class': 'articleBody'})
+            print res.text
+    except AttributeError:
+         print ''
+        
+    
+    
+    
+    #print res
+  #  result_list = json_result['d']['results']
+   # print json_result['d']['results'][0]['Description'] 
+    #print len(result_list)
+   # for i in range(0,12):
+   #   print json_result['d']['results'][i]['Description'] 
+
+#    for i in range(len(result_list)):
+ #   print result_list[0]
+   # return result_list
+ 
+if __name__ == "__main__":
+    main()
